@@ -1,1 +1,1 @@
-start java -jar dist/JOpenShowVar-core.jar 158.38.85.126 7000
+start java -jar dist/JOpenShowVar-core.jar 192.168.1.200 7000
